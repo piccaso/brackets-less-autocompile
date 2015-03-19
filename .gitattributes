@@ -1,0 +1,5 @@
+/.*         export-ignore
+/*.sh       export-ignore
+/example    export-ignore
+.gitignore  export-ignore
+
